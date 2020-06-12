@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Some Username](https://up.htmlacademy.ru/react/4/user/1063013).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Комолаев](https://github.com/vkomolaev).
 
 ---
 
