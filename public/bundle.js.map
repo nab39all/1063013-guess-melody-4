@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://guess-melody/./src/index.js"],"names":["document","querySelector","textContent"],"mappings":"AAAoBA,SAASC,cAAe,QAChCC,YAAe","file":"bundle.js","sourcesContent":["const bodyElement = document.querySelector(`body`);\nbodyElement.textContent = `Hello, hello, hello!`;\n"],"sourceRoot":""}
