@@ -4,7 +4,7 @@ import App from "./components/app/app";
 
 const init = () => {
   const settings = {
-    gameTime: 5,
+    gameTime: 8,
     errorCount: 3,
   };
 
